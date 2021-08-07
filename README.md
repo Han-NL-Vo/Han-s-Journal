@@ -1,7 +1,7 @@
 
 This page is the collections of notes on my journey of learning about Machine Learning in Finance
 
-## Daily Note
+## Daily Notes
 ### ML in Finance
   This is inspired from a Bryan Kelly's paper
   Problem of ML in Finance:

@@ -10,6 +10,8 @@ This page is the collections of notes on my journey of learning about Machine Le
   - Non-stationary enviroment
 
 ### Reinforcement Learning
+  - Q function
+  - Policy Gradient
 
 ### Hedging
   - Delta Heding

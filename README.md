@@ -13,7 +13,10 @@ This page is the collections of notes on my journey of learning about Machine Le
 
 ### Asset Pricing
 The most commonly used for asset pricing is Geometric Brownian Motion, which is used in Black Schole's formula
+
   🌵 *Random Walk*: uaish
+  
   🌵 *Brownian Motion*:
+  
   🌵 *Geometric Brownian Motion*: knkl
   

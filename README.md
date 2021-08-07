@@ -9,6 +9,8 @@ This page is the collections of notes on my journey of learning about Machine Le
   - High noise to signal ratio
   - Non-stationary enviroment
 
+### Reinforcement Learning
+
 ### Hedging
   - Delta Heding
   - Gamma-Delta Hedging

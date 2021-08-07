@@ -10,6 +10,8 @@ This page is the collections of notes on my journey of learning about Machine Le
   - Non-stationary enviroment
 
 ### Hedging
+  - Delta Heding
+  - Gamma-Delta Hedging
 
 ### Asset Pricing
 The most commonly used for asset pricing is Geometric Brownian Motion, which is used in Black Schole's formula

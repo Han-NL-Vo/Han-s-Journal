@@ -11,7 +11,7 @@ This page is the collections of notes on my journey of learning about Machine Le
 
 ### Reinforcement Learning
   - Q function
-  - Policy Gradient
+  - Deterministic Policy Gradient
 
 ### Hedging
   - Delta Heding
